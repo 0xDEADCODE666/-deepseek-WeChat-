@@ -1,0 +1,1 @@
+.\env\python bot.py
