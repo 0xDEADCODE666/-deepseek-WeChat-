@@ -3,15 +3,11 @@
 ---
 ## 简介
 简体中文 · [English](./README_EN.md) 
-- 项目交流Q群：715616260
 - 使用教程：[不封号！90秒让DeepSeek沉浸式接入微信变成你的Ai老婆](https://www.bilibili.com/video/BV1XCPSehEif/)
 - 已经更换了安全的微信自动化方案，即<code>wxauto</code>，封号可能性几乎没有，稳定性拉满
 - My Dream Moments 是一个基于大型语言模型（LLM）的情感陪伴程序，能够接入微信，提供更真实的情感交互体验。内置了 Atri-My dear moments 的 prompt，并且解决了传统人机对话程序一问一答的死板效果，提供沉浸式角色扮演和多轮对话支持。项目名字来源是运行在该程序上的第一个智能体的原作名称+项目价值观混合而来。
 - 推荐使用DeepSeek V3 模型。<br>
 ![demo.png](img%2Fdemo.png)
----
-## 声明
-- 本项目仅用于交流学习，LLM发言不代表作者本人立场。prompt所模仿角色版权归属原作者。任何未经许可进行的限制级行为均由使用者个人承担。
 ---
 
 ## 已实现的功能
@@ -79,5 +75,4 @@
 - Bilibili: [umaru今天吃什么](https://space.bilibili.com/209397245)
 - 感谢您的支持与使用！!<br>
 ![qrcode.jpg](img%2Fqrcode.jpg)
-## 请给我Star，这对我很重要TvT
-- [![Star History Chart](https://api.star-history.com/svg?repos=umaru-233/My-Dream-Moments&type=Timeline)](https://star-history.com/?spm=a2c6h.12873639.article-detail.8.7b9d359dJmTgdE#umaru-233/My-Dream-Moments&Timeline)
+
